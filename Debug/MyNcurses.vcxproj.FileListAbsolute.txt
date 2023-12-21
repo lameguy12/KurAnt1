@@ -1,0 +1,1 @@
+C:\Users\Yara\Documents\Visual Studio 2022\Templates\ProjectTemplates\Проект Visual C++\Debug\MyNcurses.exe
